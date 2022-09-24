@@ -1,7 +1,22 @@
+# QR code component
+
+QR code component
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Built with](#built-with)
+- [Author](#author)
+
 ## Overview
 
 Components:
 QR code component
+
+### Screenshot
+
+![](./design/desktop-preview.jpg)
 
 ### Built with
 
